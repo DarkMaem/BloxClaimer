@@ -26,7 +26,7 @@ Because this tool was shaped by AI-driven programming, you might occasionally en
 ## 📥 Download & Usage
 
 1. **Download the App:**
-   * You can download the latest standalone `.exe` version of BloxClaimer from the [Releases](https://github.com/YOUR_USERNAME/BloxClaimer/releases) page.
+   * You can download the latest standalone `.exe` version of BloxClaimer from the [Releases](https://github.com/DarkMaem/BloxClaimer/releases) page.
 
 2. **Install the Tampermonkey Plugin:**
    * Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
