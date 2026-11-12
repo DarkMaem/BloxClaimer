@@ -1,0 +1,174 @@
+{
+    "108055619068945": {
+        "name": "A Bizarre Run",
+        "codes": [
+            {
+                "Code": "200KLIKES",
+                "Description": "1 Rokakaka Fruit, 1 Spin Ticket, 1 Arrow"
+            },
+            {
+                "Code": "SUPPLYPACKAGE",
+                "Description": "1 Rokakaka Fruit, 1 Spin Ticket, 1 Arrow"
+            },
+            {
+                "Code": "D4C",
+                "Description": "1 Rokakaka Fruit, $8,000, 1 Arrow"
+            },
+            {
+                "Code": "RELEASE",
+                "Description": "$8,000"
+            },
+            {
+                "Code": "150KLIKES",
+                "Description": "2 Rokas, 2 Arrows, and 1 Spin Ticket."
+            },
+            {
+                "Code": "100KLIKES",
+                "Description": "1 Spin Ticket, 2 Stand Arrows and 2 Rokakaka Fruits."
+            },
+            {
+                "Code": "50KLIKES",
+                "Description": "Rokaka Fruit, 5,000 Cash, and an Arrow."
+            },
+            {
+                "Code": "FIXEDANTITEAM",
+                "Description": "Rokaka Fruit and an Arrow."
+            }
+        ]
+    },
+    "116779912472448": {
+        "name": "Do Not Stop.",
+        "codes": [
+            {
+                "Code": "RELEASE",
+                "Description": "250 Credits (Latest)"
+            },
+            {
+                "Code": "LASTSTOP",
+                "Description": "250 Credits (Latest)"
+            },
+            {
+                "Code": "DONOTSTOP",
+                "Description": "200 Credits (Latest)"
+            },
+            {
+                "Code": "ROUTE1610",
+                "Description": "150 Credits (Latest)"
+            }
+        ]
+    },
+    "17625359962": {
+        "name": "RIVALS",
+        "codes": [
+            {
+                "Code": "YEAAAAABOYYYY",
+                "Description": "Spooky Prize Wheel."
+            },
+            {
+                "Code": "FREE206",
+                "Description": "3 Keys."
+            },
+            {
+                "Code": "GARGOYLEWEEN",
+                "Description": "1 Spooky Prize Wheel."
+            },
+            {
+                "Code": "SPOOKYSCARYGARGOYLES",
+                "Description": "1 Spooky Prize Wheel."
+            },
+            {
+                "Code": "community27",
+                "Description": "Community Wrap."
+            },
+            {
+                "Code": "FREE199",
+                "Description": "3 Keys."
+            },
+            {
+                "Code": "COMMUNITY26",
+                "Description": "Community Wrap."
+            },
+            {
+                "Code": "FREE198",
+                "Description": "3 Keys."
+            },
+            {
+                "Code": "BOOST",
+                "Description": "One Key."
+            },
+            {
+                "Code": "roblox_rtc",
+                "Description": "5 Keys."
+            }
+        ]
+    },
+    "93898234979111": {
+        "name": "[\ud83d\udc1f] Net a Fish!",
+        "codes": [
+            {
+                "Code": "5MVISITS",
+                "Description": "x2 Monet Boost (15 Minutes), x2 Fish Caught (15 Minutes), x2 Luck (15 Minutes) and 3 Ocean Crates."
+            },
+            {
+                "Code": "2MVISITS",
+                "Description": "x2 Money (15 Minutes), x2 Fish Caught (15 Minutes), x2 Luck (15 Minutes), and an Abyss Crate."
+            },
+            {
+                "Code": "1MVISITS",
+                "Description": "x2 Money (15 Minutes), x2 Fish Caught (15 Minutes), x2 Luck (15 Minutes), and 2 Ocean Crates."
+            },
+            {
+                "Code": "500KVISITS",
+                "Description": "x2 Money (15 Minutes), x2 Fish Caught (15 Minutes), x2 Luck (15 Minutes), and 2 Ocean Crates."
+            },
+            {
+                "Code": "MONARCH",
+                "Description": "15 minutes worth of your income."
+            },
+            {
+                "Code": "SEAMASTER",
+                "Description": "10 minutes worth of your income."
+            },
+            {
+                "Code": "MONEY",
+                "Description": "x2 Money (15 Minutes)."
+            },
+            {
+                "Code": "LUCKY",
+                "Description": "x2 Luck (15 Minutes)."
+            },
+            {
+                "Code": "PETFISH",
+                "Description": "Ocean Crate."
+            },
+            {
+                "Code": "UPD1",
+                "Description": "3 Cash Boost X Potions, 2 Net Space X Potions, and x2 Money (15 Minutes)."
+            },
+            {
+                "Code": "ANCIENT",
+                "Description": "x2 Money (30 Minutes), x2 Fish Caught (15 Minutes), x2 Luck (30 Minutes), and 3 Ocean Crates."
+            },
+            {
+                "Code": "250KVISITS",
+                "Description": "15 minutes worth of your income, x2 Money (15 Minutes), x2 Luck (15 Minutes), and 2 Ocean Crates."
+            },
+            {
+                "Code": "100KVISITS",
+                "Description": "10 minutes worth of your income, x2 Money (15 Minutes), x2 Luck (15 Minutes), and 2 Ocean Crates."
+            },
+            {
+                "Code": "GENESIS",
+                "Description": "x2 Money (15 Minutes), x2 Luck (15 Minutes), and 2 Ocean Crates."
+            },
+            {
+                "Code": "ABSOLUTE",
+                "Description": "x2 Money (1 Hour) and 3 Ocean Crates."
+            },
+            {
+                "Code": "BOUNDLESS",
+                "Description": "3 Cash Boost X Potions, 2 Net Space X Potions, and x2 Money (15 Minutes)."
+            }
+        ]
+    }
+}
