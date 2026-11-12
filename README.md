@@ -23,6 +23,20 @@ Because this tool was shaped by AI-driven programming, you might occasionally en
 
 ---
 
+## 📥 Download & Usage
+
+1. **Download the App:**
+   * You can download the latest standalone `.exe` version of BloxClaimer from the [Releases](https://github.com/YOUR_USERNAME/BloxClaimer/releases) page.
+
+2. **Install the Tampermonkey Plugin:**
+   * Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
+   * Create a new userscript in Tampermonkey and paste the code provided in the `BloxClaimer Bridge.txt` file found in this repository.
+
+3. **Run:**
+   * Launch `BloxClaimer.exe` as Administrator, open Roblox, and enjoy automated code redemption!
+
+---
+
 ## 🛠️ Tech Stack & Libraries
 
 * **Python 3.x**
@@ -35,9 +49,8 @@ Because this tool was shaped by AI-driven programming, you might occasionally en
 
 ---
 
-## 🚀 Installation & Setup
+## 💬 Feedback & Bug Reports
 
-1. **Clone or Download the Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/BloxClaimer.git](https://github.com/YOUR_USERNAME/BloxClaimer.git)
-   cd BloxClaimer
+Found a bug or have a feature request? Since this project is powered by AI development, your feedback is crucial for troubleshooting and refining the system. Please open an issue or reach out directly!
+
+---
