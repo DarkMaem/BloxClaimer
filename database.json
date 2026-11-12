@@ -170,5 +170,26 @@
                 "Description": "3 Cash Boost X Potions, 2 Net Space X Potions, and x2 Money (15 Minutes)."
             }
         ]
+    },
+    "133429830592098": {
+        "name": "Tiny Planes",
+        "codes": [
+            {
+                "Code": "TINYBUILD3RS",
+                "Description": "This code credits your account with 60K Cash."
+            },
+            {
+                "Code": "T1NYPL4N3S300K",
+                "Description": "This code credits your account with 300,000 Cash, 1 Drone Case, and a Legendary Pilot."
+            },
+            {
+                "Code": "N0TS0T1NYPLANE3",
+                "Description": "This code credits your account with 5,000,000 Cash, 5 Livery Cases, 5 Drone Cases, 5 Shop Restock Tokens, 5 Recruitment Tokens, and a Legendary Pilot."
+            },
+            {
+                "Code": "1KLIKES",
+                "Description": "This code credits your account with Cash (Reward Scales With Your Level), 1 Livery Case, 2 Drone Cases, 4 Recruitment Tokens and 1 Legendary Pilot."
+            }
+        ]
     }
 }
