@@ -191,5 +191,62 @@
                 "Description": "This code credits your account with Cash (Reward Scales With Your Level), 1 Livery Case, 2 Drone Cases, 4 Recruitment Tokens and 1 Legendary Pilot."
             }
         ]
+    },
+    "2753915549": {
+        "name": "[\ud83c\udf83] Blox Fruits",
+        "codes": [
+            {
+                "Code": "EASTEREXP",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "KITT_RESET",
+                "Description": "Free Stat Refund"
+            },
+            {
+                "Code": "CHANDLER",
+                "Description": "Redeem for $0 (simply a joke)"
+            },
+            {
+                "Code": "SUB2CAPTAINMAUI",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "Enyu_is_Pro",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "Starcodeheo",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "Sub2Fer999",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "Magicbus",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "JCWK",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "kittgaming",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "Bluxxy",
+                "Description": "2x EXP for 20 minutes"
+            },
+            {
+                "Code": "fudd10_v2",
+                "Description": "Redeem for $2"
+            },
+            {
+                "Code": "SUB2GAMERROBOT_EXP1",
+                "Description": "2x EXP for 30 minutes"
+            }
+        ]
     }
 }
