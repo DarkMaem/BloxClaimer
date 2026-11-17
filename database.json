@@ -69,10 +69,6 @@
                 "Description": "3 Keys."
             },
             {
-                "Code": "GARGOYLEWEEN",
-                "Description": "1 Spooky Prize Wheel."
-            },
-            {
                 "Code": "SPOOKYSCARYGARGOYLES",
                 "Description": "1 Spooky Prize Wheel."
             },
@@ -246,6 +242,19 @@
             {
                 "Code": "SUB2GAMERROBOT_EXP1",
                 "Description": "2x EXP for 30 minutes"
+            }
+        ]
+    },
+    "10266164381": {
+        "name": "Bloodlines",
+        "codes": [
+            {
+                "Code": "P@7",
+                "Description": "Redeem for Bloodline Token x7 (New)"
+            },
+            {
+                "Code": "P@6",
+                "Description": "Redeem for Customisation Tokens x6 (New)"
             }
         ]
     }
